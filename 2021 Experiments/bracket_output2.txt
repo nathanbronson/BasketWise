@@ -1,0 +1,51 @@
+lin_mod:
+
+[(1, 'Gonzaga'), (5, 'Creighton'), (6, 'Southern California'), (7, 'Oregon'), (1, 'Michigan'), (4, 'Florida State'), (11, 'UCLA'), (2, 'Alabama'), (1, 'Baylor'), (5, 'Villanova'), (3, 'Arkansas'), (15, 'Oral Roberts'), (8, 'Loyola (IL)'), (13, 'Oregon State'), (11, 'Syracuse'), (2, 'Houston')]
+
+[(1, 'Gonzaga'), (6, 'Southern California'), (1, 'Michigan'), (2, 'Alabama'), (1, 'Baylor'), (3, 'Arkansas'), (8, 'Loyola (IL)'), (2, 'Houston')]
+
+[(1, 'Gonzaga'), (1, 'Michigan'), (1, 'Baylor'), (2, 'Houston')]
+
+[(1, 'Gonzaga'), (1, 'Baylor')]
+
+[(1, 'Gonzaga')]
+
+
+log_mod:
+
+[(1, 'Gonzaga'), (5, 'Creighton'), (6, 'Southern California'), (7, 'Oregon'), (1, 'Michigan'), (4, 'Florida State'), (11, 'UCLA'), (2, 'Alabama'), (1, 'Baylor'), (5, 'Villanova'), (3, 'Arkansas'), (15, 'Oral Roberts'), (8, 'Loyola (IL)'), (13, 'Oregon State'), (11, 'Syracuse'), (2, 'Houston')]
+
+[(1, 'Gonzaga'), (6, 'Southern California'), (1, 'Michigan'), (2, 'Alabama'), (1, 'Baylor'), (3, 'Arkansas'), (8, 'Loyola (IL)'), (2, 'Houston')]
+
+[(1, 'Gonzaga'), (1, 'Michigan'), (1, 'Baylor'), (2, 'Houston')]
+
+[(1, 'Gonzaga'), (2, 'Houston')]
+
+[(1, 'Gonzaga')]
+
+
+full_lin_mod:
+
+[(1, 'Gonzaga'), (5, 'Creighton'), (6, 'Southern California'), (7, 'Oregon'), (1, 'Michigan'), (4, 'Florida State'), (11, 'UCLA'), (2, 'Alabama'), (1, 'Baylor'), (5, 'Villanova'), (3, 'Arkansas'), (15, 'Oral Roberts'), (8, 'Loyola (IL)'), (13, 'Oregon State'), (11, 'Syracuse'), (2, 'Houston')]
+
+[(5, 'Creighton'), (6, 'Southern California'), (1, 'Michigan'), (11, 'UCLA'), (1, 'Baylor'), (3, 'Arkansas'), (13, 'Oregon State'), (11, 'Syracuse')]
+
+[(6, 'Southern California'), (11, 'UCLA'), (3, 'Arkansas'), (11, 'Syracuse')]
+
+[(6, 'Southern California'), (3, 'Arkansas')]
+
+[(3, 'Arkansas')]
+
+
+full_log_mod:
+
+[(1, 'Gonzaga'), (5, 'Creighton'), (6, 'Southern California'), (7, 'Oregon'), (1, 'Michigan'), (4, 'Florida State'), (11, 'UCLA'), (2, 'Alabama'), (1, 'Baylor'), (5, 'Villanova'), (3, 'Arkansas'), (15, 'Oral Roberts'), (8, 'Loyola (IL)'), (13, 'Oregon State'), (11, 'Syracuse'), (2, 'Houston')]
+
+[(5, 'Creighton'), (6, 'Southern California'), (4, 'Florida State'), (11, 'UCLA'), (5, 'Villanova'), (3, 'Arkansas'), (13, 'Oregon State'), (2, 'Houston')]
+
+[(6, 'Southern California'), (11, 'UCLA'), (5, 'Villanova'), (2, 'Houston')]
+
+[(6, 'Southern California'), (5, 'Villanova')]
+
+[(5, 'Villanova')]
+

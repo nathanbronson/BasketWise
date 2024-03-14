@@ -1,0 +1,50 @@
+[(1, 'Gonzaga'), (8, 'Oklahoma'), (5, 'Creighton'), (4, 'Virginia'), (6, 'Southern California'), (3, 'Kansas'), (7, 'Oregon'), (2, 'Iowa'), (1, 'Michigan'), (8, 'Louisiana State'), (5, 'Colorado'), (4, 'Florida State'), (6, 'Brigham Young'), (3, 'Texas'), (7, 'Connecticut'), (2, 'Alabama'), (1, 'Baylor'), (8, 'North Carolina'), (5, 'Villanova'), (4, 'Purdue'), (6, 'Texas Tech'), (3, 'Arkansas'), (7, 'Florida'), (2, 'Ohio State'), (1, 'Illinois'), (8, 'Loyola (IL)'), (5, 'Tennessee'), (4, 'Oklahoma State'), (6, 'San Diego State'), (3, 'West Virginia'), (7, 'Clemson'), (2, 'Houston')]
+
+[(1, 'Gonzaga'), (5, 'Creighton'), (6, 'Southern California'), (7, 'Oregon'), (1, 'Michigan'), (4, 'Florida State'), (6, 'Brigham Young'), (7, 'Connecticut'), (1, 'Baylor'), (5, 'Villanova'), (6, 'Texas Tech'), (7, 'Florida'), (1, 'Illinois'), (5, 'Tennessee'), (6, 'San Diego State'), (7, 'Clemson')]
+
+[(1, 'Gonzaga'), (6, 'Southern California'), (1, 'Michigan'), (6, 'Brigham Young'), (1, 'Baylor'), (6, 'Texas Tech'), (1, 'Illinois'), (6, 'San Diego State')]
+
+[(1, 'Gonzaga'), (1, 'Michigan'), (1, 'Baylor'), (1, 'Illinois')]
+
+[(1, 'Gonzaga'), (1, 'Baylor')]
+
+[(1, 'Gonzaga')]
+
+
+[(1, 'Gonzaga'), (8, 'Oklahoma'), (5, 'Creighton'), (4, 'Virginia'), (6, 'Southern California'), (3, 'Kansas'), (7, 'Oregon'), (2, 'Iowa'), (1, 'Michigan'), (8, 'Louisiana State'), (5, 'Colorado'), (4, 'Florida State'), (6, 'Brigham Young'), (3, 'Texas'), (7, 'Connecticut'), (2, 'Alabama'), (1, 'Baylor'), (8, 'North Carolina'), (5, 'Villanova'), (4, 'Purdue'), (6, 'Texas Tech'), (3, 'Arkansas'), (7, 'Florida'), (2, 'Ohio State'), (1, 'Illinois'), (8, 'Loyola (IL)'), (5, 'Tennessee'), (4, 'Oklahoma State'), (6, 'San Diego State'), (3, 'West Virginia'), (7, 'Clemson'), (2, 'Houston')]
+
+[(1, 'Gonzaga'), (5, 'Creighton'), (6, 'Southern California'), (7, 'Oregon'), (1, 'Michigan'), (4, 'Florida State'), (6, 'Brigham Young'), (7, 'Connecticut'), (1, 'Baylor'), (5, 'Villanova'), (6, 'Texas Tech'), (7, 'Florida'), (1, 'Illinois'), (5, 'Tennessee'), (6, 'San Diego State'), (7, 'Clemson')]
+
+[(1, 'Gonzaga'), (6, 'Southern California'), (1, 'Michigan'), (6, 'Brigham Young'), (1, 'Baylor'), (6, 'Texas Tech'), (1, 'Illinois'), (6, 'San Diego State')]
+
+[(1, 'Gonzaga'), (1, 'Michigan'), (1, 'Baylor'), (1, 'Illinois')]
+
+[(1, 'Gonzaga'), (1, 'Baylor')]
+
+[(1, 'Gonzaga')]
+
+
+[(16, 'Norfolk State'), (9, 'Missouri'), (12, 'UC-Santa Barbara'), (13, 'Ohio'), (11, 'Drake'), (3, 'Kansas'), (10, 'Virginia Commonwealth'), (2, 'Iowa'), (16, 'Texas Southern'), (8, 'Louisiana State'), (5, 'Colorado'), (13, 'North Carolina-Greensboro'), (11, 'UCLA'), (14, 'Abilene Christian'), (10, 'Maryland'), (2, 'Alabama'), (16, 'Hartford'), (9, 'Wisconsin'), (12, 'Winthrop'), (13, 'North Texas'), (11, 'Utah State'), (3, 'Arkansas'), (10, 'Virginia Tech'), (2, 'Ohio State'), (1, 'Illinois'), (9, 'Georgia Tech'), (13, 'Oregon State'), (13, 'Liberty'), (11, 'Syracuse'), (14, 'Morehead State'), (10, 'Rutgers'), (15, 'Cleveland State')]
+
+[(9, 'Missouri'), (13, 'Ohio'), (3, 'Kansas'), (2, 'Iowa'), (8, 'Louisiana State'), (13, 'North Carolina-Greensboro'), (14, 'Abilene Christian'), (2, 'Alabama'), (16, 'Hartford'), (13, 'North Texas'), (3, 'Arkansas'), (10, 'Virginia Tech'), (9, 'Georgia Tech'), (13, 'Oregon State'), (14, 'Morehead State'), (15, 'Cleveland State')]
+
+[(13, 'Ohio'), (2, 'Iowa'), (13, 'North Carolina-Greensboro'), (14, 'Abilene Christian'), (13, 'North Texas'), (3, 'Arkansas'), (13, 'Oregon State'), (14, 'Morehead State')]
+
+[(13, 'Ohio'), (14, 'Abilene Christian'), (3, 'Arkansas'), (14, 'Morehead State')]
+
+[(14, 'Abilene Christian'), (14, 'Morehead State')]
+
+[(14, 'Morehead State')]]
+
+
+[(1, 'Gonzaga'), (9, 'Missouri'), (12, 'UC-Santa Barbara'), (13, 'Ohio'), (11, 'Drake'), (3, 'Kansas'), (10, 'Virginia Commonwealth'), (2, 'Iowa'), (16, 'Texas Southern'), (8, 'Louisiana State'), (5, 'Colorado'), (13, 'North Carolina-Greensboro'), (11, 'UCLA'), (14, 'Abilene Christian'), (10, 'Maryland'), (2, 'Alabama'), (1, 'Baylor'), (9, 'Wisconsin'), (12, 'Winthrop'), (13, 'North Texas'), (11, 'Utah State'), (3, 'Arkansas'), (10, 'Virginia Tech'), (2, 'Ohio State'), (1, 'Illinois'), (9, 'Georgia Tech'), (13, 'Oregon State'), (4, 'Oklahoma State'), (11, 'Syracuse'), (14, 'Morehead State'), (10, 'Rutgers'), (15, 'Cleveland State')]
+
+[(9, 'Missouri'), (13, 'Ohio'), (3, 'Kansas'), (2, 'Iowa'), (16, 'Texas Southern'), (5, 'Colorado'), (14, 'Abilene Christian'), (2, 'Alabama'), (9, 'Wisconsin'), (13, 'North Texas'), (3, 'Arkansas'), (10, 'Virginia Tech'), (9, 'Georgia Tech'), (4, 'Oklahoma State'), (14, 'Morehead State'), (15, 'Cleveland State')]
+
+[(13, 'Ohio'), (2, 'Iowa'), (16, 'Texas Southern'), (14, 'Abilene Christian'), (9, 'Wisconsin'), (3, 'Arkansas'), (4, 'Oklahoma State'), (14, 'Morehead State')]
+
+[(13, 'Ohio'), (16, 'Texas Southern'), (3, 'Arkansas'), (14, 'Morehead State')]
+
+[(16, 'Texas Southern'), (14, 'Morehead State')]
+
+[(16, 'Texas Southern')]]

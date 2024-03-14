@@ -1,0 +1,11 @@
+coremltools
+pandas
+numpy
+sportsreference
+sportsipy
+scipy
+tqdm
+sklearn
+sportsdataverse
+tensorflow
+seaborn

@@ -1,0 +1,1 @@
+['away_losses0', 'conference_losses0', 'conference_wins0', 'games_played0', 'home_wins0', 'losses0', 'pace0', 'simple_rating_system0', 'turnover_percentage0', 'wins0', 'block_percentage1', 'conference_losses1', 'games_played1', 'home_wins1', 'losses1', 'opp_offensive_rebound_percentage1', 'steal_percentage1', 'strength_of_schedule1', 'wins1', '_constant']

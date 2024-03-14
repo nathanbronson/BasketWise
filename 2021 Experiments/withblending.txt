@@ -1,0 +1,16 @@
+[(1, 'Gonzaga'), (9, 'Missouri'), (5, 'Creighton'), (4, 'Virginia'), (6, 'Southern California'), (3, 'Kansas'), (7, 'Oregon'), (2, 'Iowa'), (1, 'Michigan'), (8, 'Louisiana State'), (5, 'Colorado'), (13, 'North Carolina-Greensboro'), (11, 'UCLA'), (14, 'Abilene Christian'), (10, 'Maryland'), (2, 'Alabama'), (1, 'Baylor'), (9, 'Wisconsin'), (5, 'Villanova'), (13, 'North Texas'), (11, 'Utah State'), (3, 'Arkansas'), (7, 'Florida'), (2, 'Ohio State'), (1, 'Illinois'), (8, 'Loyola (IL)'), (13, 'Oregon State'), (4, 'Oklahoma State'), (11, 'Syracuse'), (3, 'West Virginia'), (10, 'Rutgers'), (2, 'Houston')]
+
+[(1, 'Gonzaga'), (5, 'Creighton'), (6, 'Southern California'), (7, 'Oregon'), (1, 'Michigan'), (5, 'Colorado'), (14, 'Abilene Christian'), (2, 'Alabama'), (1, 'Baylor'), (5, 'Villanova'), (3, 'Arkansas'), (2, 'Ohio State'), (1, 'Illinois'), (4, 'Oklahoma State'), (3, 'West Virginia'), (2, 'Houston')]
+
+[(1, 'Gonzaga'), (6, 'Southern California'), (1, 'Michigan'), (2, 'Alabama'), (1, 'Baylor'), (2, 'Ohio State'), (1, 'Illinois'), (2, 'Houston')]
+
+[(1, 'Gonzaga'), (1, 'Michigan'), (1, 'Baylor'), (2, 'Houston')]
+
+[(1, 'Gonzaga'), (2, 'Houston')]
+
+[(1, 'Gonzaga')]
+
+###BLENDING TECHNIQUE###
+Output from both full models was analyzed for upsets. Any upset chosen by the log ppg model is untouched. Any team going to the elite 8 in the log ppg model and beyond untouched. A unanimous upset by a team at or behind the sweet 16 in the full models means that the upset is chosen as a strategic and "inconsequential" upset. If a sweet 16 team in the log ppg model is displaced, if the matchup is present in a full model, that winner is chosen. Otherwise, the higher seed is taken.
+
+Full model has following keys: ['away_losses0', 'conference_losses0', 'conference_wins0', 'games_played0', 'home_wins0', 'losses0', 'pace0', 'simple_rating_system0', 'turnover_percentage0', 'wins0', 'block_percentage1', 'conference_losses1', 'games_played1', 'home_wins1', 'losses1', 'opp_offensive_rebound_percentage1', 'steal_percentage1', 'strength_of_schedule1', 'wins1', '_constant']

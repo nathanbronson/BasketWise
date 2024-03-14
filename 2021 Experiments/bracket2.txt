@@ -1,0 +1,1 @@
+[(1, "Gonzaga"), (5, "Creighton"), (6, "Southern California"), (7, "Oregon"), (1, "Michigan"), (4, "Florida State"), (11, "UCLA"), (2, "Alabama"), (1, "Baylor"), (5, "Villanova"), (3, "Arkansas"), (15, "Oral Roberts"), (8, "Loyola (IL)"), (13, "Oregon State"), (11, "Syracuse"), (2, "Houston")]
