@@ -16,19 +16,19 @@ BasketWise
 └───Rankings/
 │   │   ncaam_rankings.py           code to create rankings
 │   │   
-|
+│
 └───2021 Experiments/               
 │   │   marchlogisticfull.py        code to forecast 2021 NCAA Tournament
 │   │   _final_output.txt           final forecast of 2021 NCAA Tournament
 │   │   
-|
+│
 └───2022 Experiments/               
 │   └───Other Models/               code for various neural networks and KNN classifiers
 │   │   │
-|   |
+│   │
 │   │   marchlogisticfull_MAIN.py   more efficient tournament forecasting script
 │   │
-|
+│
 └───2023 Experiments/               
 │   └───Weekly Rankings/            rankings calculated each week of the 2022-23 season
 │   │   │       
@@ -40,7 +40,7 @@ BasketWise
 │   │   rankings_analysis.py        analyze timewise coherence of rankings metric
 │   │   linearity.py                analyze correlation between rankings metric and point differentials
 │   │   
-|
+│
 ```
 
 ## License
